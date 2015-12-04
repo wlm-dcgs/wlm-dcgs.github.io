@@ -10,7 +10,11 @@ description: A guy who wears glasses and is at the school of doom, DCGS
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://findicons.com/files/icons/1072/face_avatars/300/a02.png
-#
+
+#Storage of posts, images and assets
+post_assets: images
+general_assets: images
+
 # Flags below are optional
 #
 
