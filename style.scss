@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: #ffc34d;
+	background: #f4f4f4;
   font: 18px/1.4 $helvetica;
-  color: #33cc00;
+  color: #373737;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #00e6e6;
+  color: #c0b283;
   font-weight: bold;
 
   line-height: 1.7;
@@ -69,7 +69,7 @@ p {
 }
 
 a {
-  color: $blue;
+  color: DCD0c0;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
