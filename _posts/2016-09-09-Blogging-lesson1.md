@@ -18,8 +18,8 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
-    <td></td>
+    <th>Starting point:</th>
+    <td>Holding text</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
