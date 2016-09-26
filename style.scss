@@ -121,7 +121,7 @@ table, th, td {
   
 }
 th {
-	color: #373737;
+	color: white;
 	background:#dcd0c0;
 	height:50px;
 	vertical-align: middle;
@@ -210,7 +210,7 @@ th {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #eac67a;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -220,7 +220,7 @@ th {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: white;
   font-size: 16px;
 
   @include mobile {
