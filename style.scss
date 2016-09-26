@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: #dcd0c0;
+  color: #984b43;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #dcd0c0;
+    color: #eac67a;
   }
 }
 
@@ -135,7 +135,7 @@ th {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: white;
 }
 
 // Specify the color of the selection
@@ -174,7 +174,7 @@ th {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid white;
 
   @include mobile {
     text-align: center;
@@ -243,7 +243,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -261,7 +261,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid white;
 }
 
 .posts > .post:last-child {
@@ -272,9 +272,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid white;
     padding: 0.1em 1em;
-    color: $gray;
+    color: white;
     font-size: 22px;
     font-style: italic;
   }
@@ -289,12 +289,12 @@ nav {
   }
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
-}
+//.wrapper-footer {
+//  margin-top: 50px;
+//  border-top: 1px solid #ddd;
+//  border-bottom: 1px solid #ddd;
+//  background-color: $lightGray;
+//}
 
 footer {
   padding: 20px 0;
