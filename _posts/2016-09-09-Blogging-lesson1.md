@@ -22,38 +22,45 @@ published: true
     <td>Holding text</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To have a Github Pages Static Website</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
-    <td> </td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
+    <td>No. I fell short of my target as not everybody had an active page.</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td></td>
+    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. <br> 
+    Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. <br> 
+    Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.
+    </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
-    <td></td>
+    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. <br> 
+    Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. <br> 
+    Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td></td>
+    <td>This requires lots and lots of filler text. That filler text should be written in your own jaunty style. Consider it an act of creative writing as well as the other necessities. <br> 
+    Write about what you did, but more important to write about is what you LEARNED! This could be about design, interfaces and appearance, just as much as core subject matter like the code. <br> 
+    Remember to reflect on the learning habits you have used, how they applied or how they were disrupted.</td>
   </tr>
 </table>
 
