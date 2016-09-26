@@ -118,11 +118,12 @@ img {
 table {
     border-collapse: collapse;
     width: 100%;
+    box-shadow: 10px 10px 5px;
 }
 
 table, th, td {
    border: 1px solid white;
- box-shadow: 10px 10px 5px;
+
 }
 
 td {
