@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: 98434b;
+  color: #98434b;
 }
 
 p {
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: dcd0c0;
+  color: #dcd0c0;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: dcd0c0;
+    color: #dcd0c0;
   }
 }
 
@@ -121,8 +121,8 @@ table, th, td {
   
 }
 th {
-	color: white;
-	background:#dcd0c0;
+	color: #18121e;
+	background:#984b43;
 	height:50px;
 	vertical-align: middle;
 }
