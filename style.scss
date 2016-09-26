@@ -18,7 +18,10 @@ html {
 }
 
 body {
-	background-image: url("http://wallcook.com/blog/wp-content/uploads/2014/12/orange-color-digital-abstract.jpg");
+  background-image: url("http://wallcook.com/blog/wp-content/uploads/2014/12/orange-color-digital-abstract.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
   font: 18px/1.4 $helvetica;
   color: #ffffff;
 }
