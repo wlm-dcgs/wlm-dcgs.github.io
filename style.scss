@@ -121,8 +121,12 @@ table {
 
 table, th, td {
    border: 1px solid white;
-  
 }
+
+td {
+vertical-align: middle;	
+}	
+
 th {
 	color: white;
 	background:#18121e;
