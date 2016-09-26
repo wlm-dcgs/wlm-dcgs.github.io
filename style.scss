@@ -126,19 +126,20 @@ table, th, td {
 }
 
 td {
-vertical-align: middle;	
-	cell-padding:10px;
+   vertical-align: middle;	
+   cell-padding:10px;
 }	
 
 th {
 	color: white;
-	background:#18121e;
+	background: #18121e;
 	height:50px;
 	vertical-align: middle;
 }
 
 #vid {
-	horizontal-align:center; 
+   display: block;
+   margin: auto; 
 }
 
 
