@@ -33,6 +33,9 @@ body {
   padding: 0 10px;
   width: 100%;
   background:rgba(35, 50, 55,0.8);
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -142,6 +145,7 @@ div.vid {
     height: 340px;
     margin: 0 auto;
 }
+#rcorners2 {
 
 
 // Fixes images in popup boxes from Google Translate
