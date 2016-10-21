@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td></td>
-    <td>Date</td>
+    <th>Date</th>
     <td>01/01/01</td>
   </tr>
 </table>
@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Basic Github account. Edited Config.yml</td>
   </tr>
   <tr>
