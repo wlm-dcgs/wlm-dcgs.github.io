@@ -22,7 +22,7 @@ published: true
     <td>Basic Github account. Edited Config.yml</td>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
+    <th>Target for this lesson?</th>
     <td>To have a Github Pages Static Website</td>
   </tr>
   <tr>
