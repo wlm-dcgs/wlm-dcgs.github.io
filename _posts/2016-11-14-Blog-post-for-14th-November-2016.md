@@ -1,5 +1,5 @@
 ---
-title: Blog post for 14th November 2016
+title: Blog post for 7th November 2016
 layout: post
 author: william.howells
 permalink: /blog-post-for-14th-november-2016/
@@ -8,10 +8,10 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <td>**Title</td>
     <td>**The robot arm**</td>
-    <td>Date</td>
-    <td>**07/11/16</td>
+    <td>**Date</td>
+    <td>**07/11/16**</td>
   </tr>
 </table>
 
@@ -19,22 +19,22 @@ published: true
 <table>
   <tr>
     <td>
-Starting point:</td>
+**Starting point:</td>
     <td>
-**Code finished</td>
+**Code finished**</td>
   </tr>
   <tr>
     <td>
-Target for this lesson</td>
+**Target for this lesson</td>
     <td>
-**To work the robot arm</td>
+**To work the robot arm**</td>
   </tr>
   <tr>
     <td>
-Did I reach my target? 
+**Did I reach my target? 
 (add details to "Lesson Review")</td>
     <td> 
-**No</td>
+**No**</td>
   </tr>
 </table>
 
@@ -42,11 +42,11 @@ Did I reach my target?
 <table>
   <tr>
     <td>
-Lesson Review</td>
+**Lesson Review**</td>
   </tr>
   <tr>
     <td>
-How did I learn?**What strategies were effective? </td>
+**How did I learn?**What strategies were effective? </td>
   </tr>
   <tr>
     <td>
@@ -54,7 +54,7 @@ To do it at all, you had to get the arm from FAK, so without telling him you cou
 </td>
   </tr>
   <tr>
-    <td>What limited my learning?**Which habits do I need to work on? </td>
+    <td>**What limited my learning?**Which habits do I need to work on? **</td>
   </tr>
   <tr>
     <td>
@@ -63,7 +63,7 @@ To do it at all, you had to get the arm from FAK, so without telling him you cou
   </tr>
   <tr>
     <td>
-What will I change for next time?**How will I improve my learning?</td>
+**What will I change for next time?**How will I improve my learning?**</td>
   </tr>
   <tr>
     <td>
