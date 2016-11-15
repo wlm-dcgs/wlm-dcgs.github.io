@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Basic Github account. Edited Config.yml</td>
   </tr>
   <tr>
