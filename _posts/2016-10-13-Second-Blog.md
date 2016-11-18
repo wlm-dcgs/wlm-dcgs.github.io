@@ -56,5 +56,9 @@ published: true
     <td></td>
   </tr>
 </table>
+<br>
+<hr>
+<h3>My Spreadsheet Work</h3>
+
 <iframe src="https://docs.google.com/spreadsheets/d/1AfOGyPT7l8vNbkHvprmanF4OFd-o3ztszco--39Xk9E/pubhtml?widget=true&amp;headers=false"></iframe>
 
