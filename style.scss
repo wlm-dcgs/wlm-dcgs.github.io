@@ -27,7 +27,10 @@ body {
   color: #ffffff;
 }
 
-
+.font_proof {
+	font-family: $font_proof;
+}
+	
 .container {
   margin: 0 auto;
   max-width: 850px;
