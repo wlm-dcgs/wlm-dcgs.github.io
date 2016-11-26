@@ -18,13 +18,17 @@ html {
 }
 
 body {
-  background-image: url("http://wallpapers.style/images/blue-background-images/blue-background-images-23.jpg");
+  background-image: url("http://freshwallpapers.in/walls/abstract_digital-HD.jpg");
  // background-image: url("http://www.sociallink1.com/wp-content/uploads/2015/06/Free-Download-Background-Images-For-Website-Design-4.jpg")
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;  
   font: 18px/1.4 $helvetica;
-  color: #ff0000;
+  color: #ffffff;
+}
+
+font_proof {
+       font-family: $cust_font;
 }
 
 .container {
