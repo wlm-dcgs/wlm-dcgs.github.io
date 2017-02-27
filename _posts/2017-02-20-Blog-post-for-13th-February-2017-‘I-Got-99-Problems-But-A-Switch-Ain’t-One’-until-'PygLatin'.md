@@ -18,21 +18,21 @@ published: true
 
 <table>
   <tr>
-    <td>
+    <th>
 Starting point:
-</td>
+</th>
     <td>
 CODECADEMY Python</td>
   </tr>
   <tr>
-    <td>
-Target for this lesson:</td>
+    <th>
+Target for this lesson:</th>
     <td>
 To continue with the CODECADEMY Python coding course without help (cheating) and do at least 3% more</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> 
 Yes</td>
   </tr>
