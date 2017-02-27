@@ -1,8 +1,8 @@
 ---
-title: Blog post for 13th February 2017 ‘I Got 99 Problems But A Switch Ain’t One’ until 'PygLatin'
+title: Blog post for 20th February 2017 ‘I Got 99 Problems But A Switch Ain’t One’ until 'PygLatin'
 layout: post
 author: william.howells
-permalink: /blog-post-for-13th-february-2017-‘i-got-99-problems-but-a-switch-ain’t-one’-until-'pyglatin'/
+permalink: /blog-post-for-20th-february-2017-‘i-got-99-problems-but-a-switch-ain’t-one’-until-'pyglatin'/
 source-id: 1HgO-Xa0q8tFx6MQGH1DfX3KzcwW-GmRanwXaSsI62N4
 published: true
 ---
@@ -11,7 +11,7 @@ published: true
     <th>Title</th>
     <td>CODECADEMY</td>
     <th>Date</th>
-    <td>06/02/17</td>
+    <td>20/02/17</td>
   </tr>
 </table>
 
