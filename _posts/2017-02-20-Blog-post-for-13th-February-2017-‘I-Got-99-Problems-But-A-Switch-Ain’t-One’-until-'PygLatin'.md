@@ -10,7 +10,7 @@ published: true
   <tr>
     <th>Title</th>
     <td>CODECADEMY</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>06/02/17</td>
   </tr>
 </table>
@@ -41,8 +41,8 @@ Yes</td>
 
 <table>
   <tr>
-    <td>
-Lesson Review</td>
+    <th>
+Lesson Review</th>
   </tr>
   <tr>
     <td>How did I learn?   What strategies were effective?</td>
@@ -52,14 +52,14 @@ Lesson Review</td>
 Today I spent about 20 minutes lesson simply trying to get passed one stage by the name of 'I got 99 problems but a switch ain't one’.  However, having reread the questions more slowly and properly, I was then able to do it in about thirty seconds.  I then did a few more stages, reached PygLatin and worked on that for the last ten minutes.</td>
   </tr>
   <tr>
-    <td>What limited my learning?   Which habits do I need to work on?</td>
+    <th>What limited my learning?   Which habits do I need to work on?</th>
   </tr>
   <tr>
     <td>
 I did NOT read the instructions at the start of this lesson (BIG mistake).  As this meant I could not do it, I spent quite a long time just thinking about over-complicated things that would not make ‘I got 99 problems but a switch ain’t one’ work.</td>
   </tr>
   <tr>
-    <td>What will I change for next time?   How will I improve my learning?</td>
+    <th>What will I change for next time?   How will I improve my learning?</th>
   </tr>
   <tr>
     <td>
