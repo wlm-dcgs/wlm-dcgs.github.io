@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>**Title</td>
+    <th>**Title</th>
     <td>**A GOOD blog post for a GOOD blog</td>
-    <td>**Date</td>
+    <th>**Date</th>
     <td>**09/01/17**</td>
   </tr>
 </table>
@@ -18,21 +18,21 @@ published: true
 
 <table>
   <tr>
-    <td>
-**Starting point:</td>
+    <th>
+**Starting point:</th>
     <td>
 **People do not know what you actually need to post (What the document says to put, not what you did today)**</td>
   </tr>
   <tr>
-    <td>
-**Target for this lesson</td>
+    <th>
+**Target for this lesson</th>
     <td>
 **To be able to do good blog posts**</td>
   </tr>
   <tr>
-    <td>
+    <th>
 **Did I reach my target? 
-(add details to "Lesson Review")</td>
+(add details to "Lesson Review")</th>
     <td> 
 ****</td>
   </tr>
@@ -41,12 +41,12 @@ published: true
 
 <table>
   <tr>
-    <td>
-**Lesson Review**</td>
+    <th>
+**Lesson Review**</th>
   </tr>
   <tr>
-    <td>
-**How did I learn?**What strategies were effective? **</td>
+    <th>
+**How did I learn?**What strategies were effective? **</th>
   </tr>
   <tr>
     <td>            
@@ -54,7 +54,7 @@ Basically, all you had to do was listen to the teacher.
 Simple, but effective.</td>
   </tr>
   <tr>
-    <td>**What limited my learning?**Which habits do I need to work on? **</td>
+    <th>**What limited my learning?**Which habits do I need to work on? **</th>
   </tr>
   <tr>
     <td>                
@@ -62,8 +62,8 @@ The arrival of about five people 20 minutes into the lesson probably meant that 
                          </td>
   </tr>
   <tr>
-    <td>
-**What will I change for next time?**How will I improve my learning?**</td>
+    <th>
+**What will I change for next time?**How will I improve my learning?**</th>
   </tr>
   <tr>
     <td>                    
