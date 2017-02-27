@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>CODECADEMY</td>
     <td>Date</td>
     <td>06/02/17</td>
