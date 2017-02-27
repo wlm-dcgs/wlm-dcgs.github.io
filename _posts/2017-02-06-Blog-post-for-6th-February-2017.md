@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>CODECADEMY</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>06/02/17</td>
   </tr>
 </table>
@@ -18,17 +18,17 @@ published: true
 
 <table>
   <tr>
-    <td>
+    <th>
 Starting point:
-</td>
+</th>
     <td>
 CODECADEMY Python</td>
   </tr>
   <tr>
-    <td>
-Target for this lesson:</td>
-    <td>
-To continue with the CODECADEMY Python coding course without help (cheating)</td>
+    <th>
+Target for this lesson:</th>
+    <th>
+To continue with the CODECADEMY Python coding course without help (cheating)</th>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,11 +41,11 @@ Yes</td>
 
 <table>
   <tr>
-    <td>
-Lesson Review</td>
+    <th>
+Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn?   What strategies were effective?</td>
+    <th>How did I learn?   What strategies were effective?</th>
   </tr>
   <tr>
     <td>
@@ -53,7 +53,7 @@ Today I spent about half the lesson simply trying to get passed one stage by the
 Then I finished the exercise, and carried on………..</td>
   </tr>
   <tr>
-    <td>What limited my learning?   Which habits do I need to work on?</td>
+    <th>What limited my learning?   Which habits do I need to work on?</th>
   </tr>
   <tr>
     <td>
