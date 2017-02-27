@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>CODECADEMY</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>23/01/17</td>
   </tr>
 </table>
@@ -18,21 +18,21 @@ published: true
 
 <table>
   <tr>
-    <td>
-Starting point:</td>
+    <th>
+Starting point:</th>
     <td>
 CODECADEMY Python</td>
   </tr>
   <tr>
-    <td>
-Target for this lesson</td>
+    <th>
+Target for this lesson</th>
     <td>
 To continue with the CODECADEMY Python coding course without help (cheating)</td>
   </tr>
   <tr>
-    <td>
+    <th>
 Did I reach my target? 
-(add details to "Lesson Review")</td>
+(add details to "Lesson Review")</th>
     <td> 
 Yes</td>
   </tr>
@@ -41,27 +41,27 @@ Yes</td>
 
 <table>
   <tr>
-    <td>
-Lesson Review</td>
+    <th>
+Lesson Review</th>
   </tr>
   <tr>
-    <td>
-How did I learn?   What strategies were effective?</td>
+    <th>
+How did I learn?   What strategies were effective?</th>
   </tr>
   <tr>
     <td>
 To do the code successfully and with ease, there was one very simple and very effective way to do it.  YOU READ THE INSTRUCTIONS!  For one of the very simple stages, I didn't read the instructions and I got it wrong.  Then I read the instructions, edited the code, and got it right.  This is what you call an effective strategy.  Today I got completely stuck on a stage.  I did it once.  I got it wrong.  I did it again.  Wrong.  I did it again.  Wrong again.  I did it again.  Right!!!!</td>
   </tr>
   <tr>
-    <td>What limited my learning?   Which habits do I need to work on?</td>
+    <th>What limited my learning?   Which habits do I need to work on?</th>
   </tr>
   <tr>
     <td>
 Getting something wrong (I did this!) will always take time, limiting the amount of work you will be able to do.  The time that I took to fix my code was then impossible to use to continue doing the code, limiting how much I could learn.  I need to work on READING THE INSTRUCTIONS!!!</td>
   </tr>
   <tr>
-    <td>
-What will I change for next time?   How will I improve my learning?</td>
+    <th>
+What will I change for next time?   How will I improve my learning?</th>
   </tr>
   <tr>
     <td>
