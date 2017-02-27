@@ -67,7 +67,7 @@ I will read the instructions repeatedly and remember meanings of key words.  Thi
 
 
 
-See the link to tutorials below.</td>
+</td>
   </tr>
 </table>
 
