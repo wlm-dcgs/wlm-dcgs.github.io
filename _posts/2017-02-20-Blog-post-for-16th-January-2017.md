@@ -10,7 +10,7 @@ published: true
   <tr>
     <th>Title</th>
     <td>CODECADEMY</td>
-    <tH>Date</td>
+    <th>Date</th>
     <td>16/01/17</td>
   </tr>
 </table>
