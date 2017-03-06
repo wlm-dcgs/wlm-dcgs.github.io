@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>More CODECADEMY</td>
-    <td>Date</td>
+    <th>Date</th>
     <td>06/03/17</td>
   </tr>
 </table>
@@ -18,21 +18,21 @@ published: true
 
 <table>
   <tr>
-    <td>
+    <th>
 Starting point:
-</td>
+</th>
     <td>
 CODECADEMY Python 'Pop Quiz'</td>
   </tr>
   <tr>
-    <td>
-Target for this lesson:</td>
+    <th>
+Target for this lesson:</th>
     <td>
 To continue with the CODECADEMY Python coding course without help (cheating) and do at least 3% or further.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td> 
 Maybe (the percentage completed has not changed even though I completed more than 2 exercises.  I’m sure of that) </td>
   </tr>
@@ -41,11 +41,11 @@ Maybe (the percentage completed has not changed even though I completed more tha
 
 <table>
   <tr>
-    <td>
-Lesson Review</td>
+    <th>
+Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn?   What strategies were effective?</td>
+    <th>How did I learn?   What strategies were effective?</th>
   </tr>
   <tr>
     <td>
@@ -54,14 +54,14 @@ It is always a lot easier to learn something if you think about it and always re
 This is exactly the same as last week because I did almost exactly the same thing as last week and it still says 23%</td>
   </tr>
   <tr>
-    <td>What limited my learning?   Which habits do I need to work on?</td>
+    <th>What limited my learning?   Which habits do I need to work on?</th>
   </tr>
   <tr>
     <td>
 If I remember all the meanings of things then I will understand what is happening a lot better and will be able to simply pass over that and not type it into google to find the definition.  The meaning of 'and’ is : _____ and _____ = true.  This says that two things are true, whereas ‘or’ and ‘not’ mean different things.  I need to work on remembering the meanings of these.</td>
   </tr>
   <tr>
-    <td>What will I change for next time?   How will I improve my learning?</td>
+    <th>What will I change for next time?   How will I improve my learning?</th>
   </tr>
   <tr>
     <td>
