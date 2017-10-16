@@ -44,8 +44,7 @@ published: true
     <td>To do decryption, you had to copy one line (the first line) into the third line so that line A was first, then B, then A again.  As this was now the case, I could put in the actual code (=HLOOKUP(C9, A1:Z2, 2, false) ) so that it automatically gave me the correct letters to reveal HI!
 I AM BARRY SCOTT!  This was exactly what I wanted it to do.  Success!
 
-
-https://docs.google.com/spreadsheets/d/1758QlZEPx4rOSL2aXBMFTd2AozlOlo21K7wh3R9YhUM/edit#gid=0</td>
+</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
@@ -61,4 +60,4 @@ https://docs.google.com/spreadsheets/d/1758QlZEPx4rOSL2aXBMFTd2AozlOlo21K7wh3R9Y
   </tr>
 </table>
 
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRW0k4QtBWSmRuIgCoJ0uUjdYlDmch9rx7HQE7qdlhZ242UzKxkkDHb2iAH2fKSG6htN9lt5inm2FWA/pubhtml?widget=true&amp;headers=false"></iframe>
